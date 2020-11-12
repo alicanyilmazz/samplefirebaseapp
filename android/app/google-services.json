@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983738309252",
+    "firebase_url": "https://survey-e30dd.firebaseio.com",
+    "project_id": "survey-e30dd",
+    "storage_bucket": "survey-e30dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983738309252:android:9de25cc9504ea3f32e00d1",
+        "android_client_info": {
+          "package_name": "com.example.samplefirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983738309252-kvd4ugntbosrck0r47n9gohc6rfh1mhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samplefirebaseapp",
+            "certificate_hash": "41915bf7fe051edea30d35307df6cacba9f3b920"
+          }
+        },
+        {
+          "client_id": "983738309252-0r19pf3i4eiu1ki6ppflauojibtqa3b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38pixPsKb0wrC-3mY6Cx_axMCE6HZiCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983738309252-0r19pf3i4eiu1ki6ppflauojibtqa3b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
